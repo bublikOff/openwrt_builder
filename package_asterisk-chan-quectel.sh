@@ -55,7 +55,8 @@ define Package/asterisk-chan-quectel
 	SECTION:=net
 	CATEGORY:=Network
 	URL:=https://github.com/mpmc/asterisk-chan-quectel
-	DEPENDS:=asterisk $(ICONV_DEPENDS) +kmod-usb-acm +kmod-usb-serial +kmod-usb-serial-option +libusb-1.0 +alsa-lib
+	DEPENDS:=asterisk $(ICONV_DEPENDS) +libsqlite3 +alsa-lib
+	EXTRA_DEPENDS:=+kmod-usb-acm +kmod-usb-serial +kmod-usb-serial-option +libusb-1.0
 	TITLE:=Asterisk Quectel module support
 endef
 
