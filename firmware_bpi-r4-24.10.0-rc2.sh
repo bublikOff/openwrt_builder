@@ -20,7 +20,7 @@ PACKAGES=""
 PACKAGES+=" luci-app-attendedsysupgrade"
 
 # Add PBR (policy based routing)
-PACKAGES+=" pbr luci-app-pbr"
+PACKAGES+=" pbr luci-app-pbr"                                                       
 
 # Add QoS over Nftables
 PACKAGES+=" nft-qos luci-app-nft-qos"
@@ -43,8 +43,14 @@ PACKAGES+=" kmod-usb-net-cdc-mbim kmod-usb-net-qmi-wwan kmod-usb-serial-option l
 # Add Nut service (Network UPS Tools)
 PACKAGES+=" luci-app-nut nut-server nut-driver-usbhid-ups nut-web-cgi"
 
+# Add Acme support
+PACKAGES+=" acme acme-common acme-acmesh acme-acmesh-dnsapi	luci-app-acme"
+
 # Add Asterisk
-#PACKAGES+=" asterisk asterisk-app-sms asterisk-app-system asterisk-chan-dongle asterisk-codec-gsm asterisk-codec-opus asterisk-codec-resample asterisk-format-gsm asterisk-format-ogg-opus asterisk-func-base64 asterisk-func-uri asterisk-sounds"
+PACKAGES+=" asterisk asterisk-app-system asterisk-bridge-native-rtp asterisk-bridge-simple asterisk-chan-dongle asterisk-codec-alaw asterisk-codec-ulaw asterisk-codec-g722"
+PACKAGES+=" asterisk-codec-gsm asterisk-codec-opus asterisk-format-gsm asterisk-format-ogg-opus asterisk-format-wav asterisk-func-base64 asterisk-func-channel asterisk-func-cut"
+PACKAGES+=" asterisk-func-devstate asterisk-func-dialplan asterisk-func-global asterisk-func-shell asterisk-func-uri asterisk-pbx-spool asterisk-pjsip"
+PACKAGES+=" asterisk-res-rtp-asterisk asterisk-res-rtp-multicast asterisk-res-sorcery asterisk-res-srtp asterisk-sounds"
 
 # Add WOL support
 PACKAGES+=" luci-app-wol"
@@ -74,7 +80,10 @@ PACKAGES+=" -libustream-mbedtls -wpad-basic-mbedtls libustream-openssl wpad-open
 PACKAGES+=" -dnsmasq dnsmasq-full"
 
 # Exclude odhcp
-PACKAGES+=" -odhcp6c -odhcpd-ipv6only"
+#PACKAGES+=" -odhcp6c -odhcpd-ipv6only"
+
+#
+[ -f "/builder/setup.sh" ] && "/builder/setup.sh"
 
 #
 make image PROFILE="${PROFILE}" PACKAGES="${PACKAGES}" FILES="/builder/files"

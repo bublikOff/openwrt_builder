@@ -2,9 +2,9 @@
 7e08596dc9b29913fdb88d9ff342c8cbae3324cb90128a282d3fd18c48e85e73 *openwrt-24.10.0-rc2-mediatek-filogic-bananapi_bpi-r3-mini-emmc-gpt.bin
 0099a6d09f2bc5d323ce0f8107fd48064fe75fe329cd7aef515050acdc0e9016 *openwrt-24.10.0-rc2-mediatek-filogic-bananapi_bpi-r3-mini-emmc-preloader.bin
 2b6bb462b75c87cbfcc281c30681da47db730bfb5e9ca4d52cfe99de2ee067e0 *openwrt-24.10.0-rc2-mediatek-filogic-bananapi_bpi-r3-mini-snand-bl31-uboot.fip
-d1f8b1922bd0d8cd0dcc1569055a0e2fb42c430fb2508a87d16d9540914e48e6 *openwrt-24.10.0-rc2-mediatek-filogic-bananapi_bpi-r3-mini-snand-factory.bin
+fcc9b4ac864c768fd702e59972ae399a54e1352cddd7f4f00dac13cb58107583 *openwrt-24.10.0-rc2-mediatek-filogic-bananapi_bpi-r3-mini-snand-factory.bin
 c8126be85e1dd6a10e828763be9f2f9b75c6649aa5f970bcf1889f202f456e7b *openwrt-24.10.0-rc2-mediatek-filogic-bananapi_bpi-r3-mini-snand-preloader.bin
-f8e5f4494e31425e1a2383e39b2445528333c2b6b265bba2b61bb130b5221a56 *openwrt-24.10.0-rc2-mediatek-filogic-bananapi_bpi-r3-mini-squashfs-sysupgrade.itb
-613622505841e4604bb5a96c45bb64de1f3c875dba6dc5f6c49dcae381a86914 *openwrt-24.10.0-rc2-mediatek-filogic-bananapi_bpi-r3-mini.bom.cdx.json
-47713cdfc8ffa1abef64fd2433e38454fb3d69bead066c59dad2ef1c9a29472a *openwrt-24.10.0-rc2-mediatek-filogic-bananapi_bpi-r3-mini.manifest
-fc5eaeab0acfc669da6f7de0bb7f2cf137ceb950a9e2308d5b881f8742d465c8 *profiles.json
+e86d82bc84b69772d9f98ff8c9066dd9e78adb9896de9409f9e1b067c496a412 *openwrt-24.10.0-rc2-mediatek-filogic-bananapi_bpi-r3-mini-squashfs-sysupgrade.itb
+4a6c5f2913b65b181d6738ff6ccdd5a6a080df8798f16775f0f658dbcd3aac10 *openwrt-24.10.0-rc2-mediatek-filogic-bananapi_bpi-r3-mini.bom.cdx.json
+7f1cc1d69736f0b65e9df31a3bdd2458edaa2e7d565c33b44e195f558e0cf34a *openwrt-24.10.0-rc2-mediatek-filogic-bananapi_bpi-r3-mini.manifest
+94d702c6d3f6be2d7866669a5e0bd685788a10b0201f09eb45a08b8efd178fc5 *profiles.json

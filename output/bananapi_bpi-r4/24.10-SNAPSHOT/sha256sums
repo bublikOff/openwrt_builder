@@ -1,0 +1,9 @@
+3ac79e758f8be5f3b84c251dbbdea60e519fb69291bddaf4223d6a93c85efdc4 *openwrt-24.10-snapshot-r28179-aa1241e979-mediatek-filogic-bananapi_bpi-r4-emmc-bl31-uboot.fip
+3c6a0dd6311cfe3f4719dc34117544de777dfff7cd740837d489462e6ff3985d *openwrt-24.10-snapshot-r28179-aa1241e979-mediatek-filogic-bananapi_bpi-r4-emmc-preloader.bin
+9bcd583c3a0e969186fabd168bf89a26076a05752fc35d29362ff13b2e45e2a2 *openwrt-24.10-snapshot-r28179-aa1241e979-mediatek-filogic-bananapi_bpi-r4-sdcard.img.gz
+9e108b6c86a61c33d018b06652e9888c0945e67b3a4f82d5787d791af0d245c7 *openwrt-24.10-snapshot-r28179-aa1241e979-mediatek-filogic-bananapi_bpi-r4-snand-bl31-uboot.fip
+46be467e5309b178d659db8ac31dc79389dbefc216ae5f951e931d9b874d7256 *openwrt-24.10-snapshot-r28179-aa1241e979-mediatek-filogic-bananapi_bpi-r4-snand-preloader.bin
+d75770c92937bf62f5d1c3f7be5c3824a46a3ae2a539e81d8914916b3b72c261 *openwrt-24.10-snapshot-r28179-aa1241e979-mediatek-filogic-bananapi_bpi-r4-squashfs-sysupgrade.itb
+cdf2578a844a15cdcdf27a284c7e3c96ab5d2b06fffcd008f68f812a64640b30 *openwrt-24.10-snapshot-r28179-aa1241e979-mediatek-filogic-bananapi_bpi-r4.bom.cdx.json
+57d551124da13877515d450dd4487901d0b7f5ad35babe9277e388e91020fcd1 *openwrt-24.10-snapshot-r28179-aa1241e979-mediatek-filogic-bananapi_bpi-r4.manifest
+3f1f95511ba972bba0d28e55e354fc3285e74795e276aca34447f79486559b6e *profiles.json
