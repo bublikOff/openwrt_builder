@@ -1,9 +1,0 @@
-05179abb4a5f21da098da8d422d900aa99ce54b18f5e481e22079bc875a08392 *openwrt-24.10.0-rc2-mediatek-filogic-bananapi_bpi-r4-emmc-bl31-uboot.fip
-0edd4a87d5aca193afdc0274b81e7af2432d7429bd34f10e5a10f626b9517f69 *openwrt-24.10.0-rc2-mediatek-filogic-bananapi_bpi-r4-emmc-preloader.bin
-eccaedafbc8c7ea8668139c9d39d648d9748883c29e4a9e94fb2f175ca974586 *openwrt-24.10.0-rc2-mediatek-filogic-bananapi_bpi-r4-sdcard.img.gz
-d9729d48e660c84f49a28ca8296106071611cf2dc068613fefc6d93560a6f482 *openwrt-24.10.0-rc2-mediatek-filogic-bananapi_bpi-r4-snand-bl31-uboot.fip
-5a57aa03a6e24d4049427e43faf9e253d66a80051d07f8626a731358eb1132e1 *openwrt-24.10.0-rc2-mediatek-filogic-bananapi_bpi-r4-snand-preloader.bin
-01e1c5ec55d78c6e730830b3d64e433595acab2d83ad45639be5e962b7f170c6 *openwrt-24.10.0-rc2-mediatek-filogic-bananapi_bpi-r4-squashfs-sysupgrade.itb
-7bc03dfff2e0a062f32364e7051d092952831b7c32d960eb4908753c0b705076 *openwrt-24.10.0-rc2-mediatek-filogic-bananapi_bpi-r4.bom.cdx.json
-3631c1c9b48e7c64e279a82dfba4a38b0a79f0ed933bcd00dec32d71efe34162 *openwrt-24.10.0-rc2-mediatek-filogic-bananapi_bpi-r4.manifest
-f52a0bec5a874bb16dc3e5a4334616c51010193355de9a11fcaa83e47adbef46 *profiles.json

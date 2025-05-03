@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #
-OPENWRT_VERSION="24.10.0-rc2"
+OPENWRT_VERSION="master"
 OPENWRT_TARGET="mediatek/filogic"
 OPENWRT_SDK="gcc-13.3.0_musl.Linux-x86_64"
 
